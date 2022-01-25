@@ -1,0 +1,3 @@
+runtime: java11
+service: api
+instance_class: F2
